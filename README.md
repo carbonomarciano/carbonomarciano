@@ -1,11 +1,18 @@
-## Hi there 👋
+## Olá ! Tudo bem? 👋
+ * Eu sou professora de Química ⚛️ e estudante do Alura 🖱️
+ * Estou me desenvolvendo na linguagem JavaScript 💻
+ * Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 📝
+   ## Você pode entrar em contato comigo 📧
+  queziageane@professor.educacao.sp.gov.br 
+   
+   ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDU5azNiZzFqcXZ6c3E3MjZ1YWt1OXVqdHhobGpuYmloNWtpMTlmMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5GuPid9kLkKDNQbXG1/giphy.webp)
 
 <!--
 **carbonomarciano/carbonomarciano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  ! Eu sou professora de Química e estudante do Alura
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
